@@ -3,5 +3,6 @@
 ### Multimedia 3
 #### Multimedia 4
 ##### Multimedia 5
-####### Multimedia 6
-Github class
+###### Multimedia 6
+
++ Github class
